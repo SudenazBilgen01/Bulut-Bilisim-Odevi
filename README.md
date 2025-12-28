@@ -14,13 +14,13 @@ Bu projenin temel amaçları aşağıda listelenmiştir:
 
 -Güvenlik ve ağ yapılandırmalarını gerçekleştirmek
 
--Basit bir web uygulamasını bulut ortamına taşımak
+-Basit bir web uygulamasını bulut ortamına taşımak.
 
 -Uygulamayı internet üzerinden erişilebilir hale getirmek
 
 -Dağıtım sürecini rapor ve sunum ile belgelemek
 
-## 3. UYGULAMA SEÇİMİ
+## 3. UYGULAMA SECIMI
 
 Projede, HTML tabanlı basit bir web uygulaması (Hello World) tercih edilmiştir.
 
@@ -48,7 +48,7 @@ AWS’nin tercih edilme nedenleri:
 
 -Uygulama dağıtımı için AWS EC2 (Elastic Compute Cloud) servisi kullanılmıştır.
 
-## 5. KULLANILAN TEKNOLOJİLER
+## 5. KULLANILAN TEKNOLOJILER
 
 Amazon Web Services (AWS)
 
@@ -68,16 +68,12 @@ Uygulama mimarisi basit ve anlaşılır bir yapıdadır:
 
 Kullanıcı (Web Tarayıcı)
         |
-        v
 İnternet
         |
-        v
 AWS EC2 Sanal Sunucu
         |
-        v
 Apache Web Server
         |
-        v
 HTML Web Sayfası
 
 ## 7. DAĞITIM SÜRECİ (ADIM ADIM)
